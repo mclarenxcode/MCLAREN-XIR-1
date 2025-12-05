@@ -1,170 +1,134 @@
-Here is a fully rewritten, McLaren-themed, professional GitHub README for your bot McLarenXIR.
-I kept the structure clean, modern and completely about you — McLarenXCode.
-Everything is customized, including badges, banners, credits, and the bot name.
+Got you. Here is a clean, professional GitHub README for your repo
+MCLAREN-XIR-1, with COMING SOON sections where needed.
 
-You can copy-paste directly into GitHub.
+Just copy–paste into your GitHub README.
 
 ⸻
 
-🤖 McLaren XIR – Multi-Device WhatsApp Bot
+🤖 McLaren XIR 1 – Next-Gen WhatsApp Bot (Coming Soon)
 
-McLaren XIR is a modern, fast and powerful WhatsApp multi-device bot created by McLarenXCode.
-Built with Baileys, it includes advanced automation tools, bug features, admin tools, menus, and more — designed for creators, tech lovers, and group admins.
+McLaren XIR 1 is the upcoming, redesigned and upgraded WhatsApp multi-device bot created by McLarenXCode.
+Built for speed, automation, stability and a clean user experience — especially on iPhone & Android.
+
+This version is currently under active development, with many features on the way.
 
 <div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=45&pause=1000&color=00E0FF&center=true&width=1000&height=100&lines=McLaren+XIR;Next-Gen+WhatsApp+Bot;Created+By+McLarenXCode" alt="Typing SVG" />
-  </a> 
-</div> 
-
-
-<div align="center"> 
-    <img src="https://via.placeholder.com/900x400.png?text=McLaren+XIR+WhatsApp+Bot" alt="McLaren XIR Banner" height="280">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=800&color=00E0FF&center=true&width=1000&height=100&lines=McLaren+XIR+1;WhatsApp+Bot;Created+By+McLarenXCode;Coming+Soon..." alt="Typing SVG" />
 </div>
 
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/mclarenxcode?style=for-the-badge&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/mclarenxcode/McLarenXIR?style=for-the-badge&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/mclarenxcode/McLarenXIR?style=for-the-badge&label=Forks" alt="Forks"/>
-  <img src="https://img.shields.io/github/watchers/mclarenxcode/McLarenXIR?style=for-the-badge&label=Watchers" alt="Watchers"/>
+  <img src="https://img.shields.io/github/followers/mclarenxcode?style=for-the-badge&label=Followers"/>
+  <img src="https://img.shields.io/github/stars/mclarenxcode/MCLAREN-XIR-1?style=for-the-badge&label=Stars"/>
+  <img src="https://img.shields.io/github/forks/mclarenxcode/MCLAREN-XIR-1?style=for-the-badge&label=Forks"/>
 </div>
 
 
 
 ⸻
 
-🚀 Deployment Guide
+🚀 About McLaren XIR 1
 
-Step 1: Fork Repository
+McLaren XIR 1 will introduce a fully improved bot system with:
+	•	New UI menu
+	•	Faster command handler
+	•	Stronger bug tools
+	•	Auto-systems
+	•	Clean iPhone-friendly responses
+	•	Telegram integration (coming soon)
+	•	AI assistant support (coming soon)
+
+This version is being built completely from scratch for better performance and stability.
+
+Status: Development in progress — full features coming soon.
+
+⸻
+
+🔧 Installation (Coming Soon)
+
+Setup instructions will be added when the first stable release is ready.
+
+Installation guide coming soon...
+
+
+⸻
+
+⚙️ Features (Coming Soon)
+
+The following features are planned:
+	•	✔ Tag All
+	•	✔ Stickers
+	•	✔ TTS
+	•	✔ Admin Tools
+	•	✔ Anti-Link
+	•	✔ Auto-Reply System
+	•	✔ Multimedia Downloader
+	•	✔ Bug Commands (McLarenXCode signature)
+	•	✔ Full Menu UI
+	•	✔ AI Chat Mode (Model: McLaren AI — Coming Soon)
+
+More features will be announced with updates.
+
+⸻
+
+📂 Folder Structure (Coming Soon)
+
+/mclarenxir1
+  ├── commands/
+  ├── session/
+  ├── lib/
+  ├── database/
+  ├── plugins/
+  ├── config.js
+  └── index.js
+Coming soon...
+
+
+⸻
+
+🔗 Deploy (Coming Soon)
+
+Buttons, pair-code link, and deployment guides will be added soon.
 
 <div align="center">
-  <a href="https://github.com/mclarenxcode/McLarenXIR/fork">
-    <img src="https://img.shields.io/badge/Fork%20Repository-4169E1?style=for-the-badge" alt="Fork the repository"/>
-  </a>
+  <img src="https://img.shields.io/badge/Deploy%20Coming%20Soon-444?style=for-the-badge"/>
 </div>
 
 
 
 ⸻
 
-Step 2: Get Pair Code
+🤝 Contributions
 
-Connect your bot easily using a pair code.
+Contributors will be welcome once the initial release drops.
 
-<div align="center">
-  <a href="https://your-paircode-link">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-ff0055?style=for-the-badge" alt="Pair Code"/>
-  </a>
-</div>
+Contribution guidelines coming soon...
 
-
-Upload your generated creds.json file into the session folder.
-
-⸻
-
-Step 3: Deploy Now
-
-<div align="center">
-  <a href="https://youtu.be/yourtutorial">
-    <img src="https://img.shields.io/badge/Deploy%20Tutorial-red?style=for-the-badge&logo=youtube" alt="Tutorial"/>
-  </a>
-  <a href="https://your-hosting-panel">
-    <img src="https://img.shields.io/badge/Deploy%20on%20Panel-28a745?style=for-the-badge" />
-  </a>
-</div>
-
-
-
-⸻
-
-⚙️ Features of McLaren XIR
-	•	💬 Tag All – Mention all group members instantly
-	•	🎮 Games – Tic-Tac-Toe & more
-	•	🔊 Text-to-Speech – Convert text into realistic audio
-	•	🎨 Stickers – Create stickers instantly
-	•	🚫 Anti-Link – Auto-delete group invite links
-	•	⚠️ Warn System – Add/remove warnings
-	•	🤖 Auto-Replies + Fast Commands
-	•	📱 iPhone-Friendly UI Menu
-	•	🛡️ Admin-Restricted Tools
-
-⸻
-
-📖 About McLaren XIR
-
-McLaren XIR is developed by McLarenXCode, built with speed, reliability and automation in mind.
-The bot uses the Baileys MD library to interact with WhatsApp Web’s multi-device system.
-
-It is lightweight, customizable and perfect for personal use, entertainment, or group management.
-
-⸻
-
-🛠️ Installation & Setup
-
-Prerequisites
-	•	Node.js
-	•	Git
-	•	Basic terminal knowledge
-
-⸻
-
-1. Clone Repository
-
-git clone https://github.com/mclarenxcode/McLarenXIR.git
-cd McLarenXIR
-
-2. Install Dependencies
-
-npm install
-
-3. Start Bot
-
-node index.js
-
-4. Connect WhatsApp
-
-Scan the QR code or use Pair Code to link your WhatsApp account.
-
-⸻
-
-📝 License
-
-This project follows the MIT License.
-You must credit original authors, including McLarenXCode & Baileys.
-
-⸻
-
-🙌 Contributions
-
-Pull requests and feature suggestions are welcome.
-Open an issue if you want to contribute something new.
-
-⸻
-
-🌟 Support McLaren XIR
-
-If you appreciate this project:
-👉 Star the repo to support McLarenXCode!
 
 ⸻
 
 👑 Credits
-	•	McLarenXCode – Developer & Owner
-	•	Baileys – WhatsApp MD API
-	•	Additional contributors (plugins, pair code, modules)
+	•	Developer: McLarenXCode
+	•	Library: Baileys (MD API)
+	•	Community testers (coming soon)
 
 ⸻
 
 ⚠️ Disclaimer
-	•	This is not an official WhatsApp product
-	•	Use responsibly — misuse may cause account bans
-	•	For educational & personal automation only
+
+This project is not affiliated with WhatsApp. Use responsibly — misuse may result in account restrictions or bans.
 
 ⸻
 
-If you want:
-✅ A logo for McLaren XIR
-✅ A banner image for GitHub
-✅ A profile picture for the bot
-Just tell me — I can generate it.
+⭐ Support the Project
+
+If you’re excited for McLaren XIR 1:
+👉 Star the repo to stay updated!
+
+⸻
+
+If you want, I can also make:
+🔹 A GitHub banner image
+🔹 A logo for McLaren XIR 1
+🔹 A profile picture for the repo
+Just tell me!
